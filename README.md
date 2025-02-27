@@ -1,2 +1,2 @@
 # OS_content
-Advanced Operating Systems
+Here you will find solutions of the tasks from the following course: [OS](https://gitlab.com/slon/shad-os)
