@@ -1,2 +1,3 @@
-# OS_content
+# OS course solutions
+
 Here you will find solutions of the tasks from the following course: [OS](https://gitlab.com/slon/shad-os)
